@@ -8,3 +8,4 @@ Utilizamos o setor de produtos em ambas tabelas para realizar a união, juntando
 
 Para o desenvolvimento dos modelos foi utilizado o perído de 202005 a 202007 para as variáveis explicativas e 202008 como alvo - e na validação, o período de 202006 a 202008 para as explicativas e 202009 para a captura do alvo.
 
+
